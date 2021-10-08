@@ -36,8 +36,8 @@ module.exports = {
       filename: './index.html',
     }),
     new HtmlWebpackPlugin({
-      template: './src/html/lemon.html',
-      filename: './html/lemon.html',
+      template: './src/html/find-jolt.html',
+      filename: './html/find-jolt.html',
     }),
     /* any other html file:
     new HtmlWebpackPlugin({

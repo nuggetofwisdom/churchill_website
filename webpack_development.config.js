@@ -52,8 +52,8 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
         chunks: ['lemon'],
-      template: './src/html/lemon.html',
-      filename: './html/lemon.html',
+      template: './src/html/find-jolt.html',
+      filename: './html/find-jolt.html',
     }),
     new HtmlWebpackPlugin({
         chunks: ['mint'],
@@ -67,8 +67,8 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
         chunks: ['story'],
-      template: './src/html/story.html',
-      filename: './html/story.html',
+      template: './src/html/map.html',
+      filename: './html/map.html',
     }),
     new HtmlWebpackPlugin({
         chunks: ['sustainability'],

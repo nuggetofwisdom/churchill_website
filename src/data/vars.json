@@ -9,7 +9,7 @@
     "aboutGrey": "#8f8d81",
     "backgroundWhite": "#ffffff",
     "churchillGrey": "#3f3f3f",
-    "churchillGold": "#fffae0",
+    "churchillGold": "#7e00ff",
     "lemonYellow": "#fcc43e",
     "mintGreen": "#86a985",
     "saltGrey": "#4e5b63",
@@ -102,13 +102,11 @@
     },
     "pageOrder": {
         "0": "'product.html'",
-        "1": "'lemon.html'",
-        "2": "'mint.html'",
-        "3": "'salt.html'",
-        "4": "'story.html'",
-        "5": "'sustainability.html'",
-        "6": "'about.html'",
-        "7": "'contact.html'"
+        "1": "'mint.html'",
+        "2": "'salt.html'",
+        "3": "'contact.html'",
+        "4": "'sustainability.html'",
+        "5": "'about.html'"
     },
     "emptyCanvasWidth": "500",
     "emptyCanvasHeight": "500",
@@ -167,7 +165,7 @@
 
     "scrollingContainer": {
         "animation": "'window'",
-        "story": "'.m-text-container-absolute'",
+        "map": "'window'",
         "imprint": "'.m-text-container-absolute'",
         "privacy": "'.m-text-container-absolute'",
         "about": "'window'",
@@ -189,7 +187,8 @@
         "lemon": "true",
         "mint": "true",
         "salt": "true",
-        "sustainability": "true"
+        "sustainability": "true",
+        "map": "true"
     },
     "headerColors": {
         "story": "black",

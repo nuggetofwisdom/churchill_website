@@ -13,6 +13,6 @@ app.use(webpackDevMiddleware(compiler, {
 }));
 
 // Serve the files on port 3000.
-app.listen(3000, function () {
-  console.log('Find at localhost:3000!\n');
+app.listen(5555, function () {
+  console.log('Find at localhost:5555!\n');
 });
